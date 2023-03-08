@@ -1,0 +1,5 @@
+{
+    "method": "change_resolution",
+    "method_params": "1280:720",
+    "filepath": "/home/koshin/python_practice/video_compressor/sample-5s.mp4"
+}
